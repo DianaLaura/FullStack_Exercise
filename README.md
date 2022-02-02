@@ -1,1 +1,1 @@
-# FullStack Exercise
+# Full Stack Exercise
