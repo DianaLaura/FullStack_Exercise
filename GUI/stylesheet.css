@@ -1,3 +1,12 @@
-H1 {color: blue;}
-body {background: #dad3d3;}
+.statebar {position:relative; top: 30px;}
+.livebar {position: relative; top: 2px;}
+.goldbar {position:relative; top: 2px;}
 
+
+.worldmap {position:relative; top: 100px;}
+.castle_img {height: 120px;}
+#castle_1 {position: absolute; top: 10px; left: 500px;}
+#castle_2 {position: absolute; top: 250px; left: 100px;}
+#castle_3 {position: absolute; top: 300px; left: 300px;}
+#castle_4 {position: absolute; top: 200px; left: 450px;}
+#castle_5 {position: absolute; top: 50px; left: 250px;}
