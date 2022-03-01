@@ -16,6 +16,34 @@
 - [ ] Learning CSS
 - [ ] Repeat and extend knowledge about JavaScript
 
+## Steps
+
+- [ ] Create functioning frontend
+    - [ ] Define static room(s)
+    - [ ] Define API for backend (Room Configuration)
+    - [ ] Make example input with full room configuration (5 castles with 7 rooms each)
+    - [ ] Create castles / rooms with javaScript based on example input
+- [ ] Create parsing part (backend)
+
+
+## API frontend / backend
+
+### Must-Haves
+    - number of castles
+    - castle names
+    - number of rooms per castle
+    - room names
+    - monster in each room 
+        - odds of winning fight
+    - treasure in each room
+        - points for the treasure
+
+### Might-Haves
+    - castle id
+
+
+
+
 Castle image: <a href='https://www.freepik.com/vectors/cartoon-castle'>Cartoon castle vector created by pch.vector - www.freepik.com</a>
 
 state bars: <a href='https://www.freepik.com/vectors/game-ui'>Game ui vector created by upklyak - www.freepik.com</a>
