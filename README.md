@@ -1,5 +1,11 @@
 # Full Stack Exercise
 
+## Update
+
+I did not work much on this project in the last few weeks because I was busy with moving into a new apartment and a workshop.
+
+I decided to solve the problem with React, and I am currently parameterising the main map so it can be created according to a external, parsed file, like specified in the description.
+
 ## Task Description
 
 >  Castles and Creatures
